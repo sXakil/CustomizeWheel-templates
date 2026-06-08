@@ -7,8 +7,8 @@
 	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
 	"templates": [
 		{
-			"id": "Fruits",
-			"name": "string",
+			"id": "fruits",
+			"name": "Fruits",
 			"thumbnail": "/previews/Fruits.png",
 			"data": "/templates/Fruits.zip"
 		}
