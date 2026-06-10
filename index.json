@@ -11,6 +11,12 @@
 			"name": "Fruits",
 			"thumbnail": "/previews/Fruits.png",
 			"data": "/templates/Fruits.zip"
+		},
+		{
+			"id": "vertical_text",
+			"name": "Vertical Text",
+			"thumbnail": "/previews/Vertical_Text.png",
+			"data": "/templates/Vertical_Text.zip"
 		}
 	]
 }
