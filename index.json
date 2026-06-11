@@ -1,6 +1,6 @@
 {
 	"name": "Templates Gallery",
-	"version": 2,
+	"version": 3,
 	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
 	"author": "sXakil",
 	"license": "ISC",
@@ -17,6 +17,12 @@
 			"name": "Vertical Text",
 			"thumbnail": "/previews/Vertical_Text.png",
 			"data": "/templates/Vertical_Text.zip"
+		},
+		{
+			"id": "beige",
+			"name": "Beige",
+			"thumbnail": "/previews/Beige.png",
+			"data": "/templates/Beige.zip"
 		}
 	]
 }
