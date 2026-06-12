@@ -23,6 +23,12 @@
 			"name": "Beige",
 			"thumbnail": "/previews/Beige.png",
 			"data": "/templates/Beige.zip"
+		},
+		{
+			"id": "money_wheel",
+			"name": "Money Wheel",
+			"thumbnail": "/previews/Money_Wheel.png",
+			"data": "/templates/Money_Wheel.zip"
 		}
 	]
 }
