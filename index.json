@@ -1,6 +1,6 @@
 {
 	"name": "Templates Gallery",
-	"version": 3,
+	"version": 4,
 	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
 	"author": "sXakil",
 	"license": "ISC",
@@ -29,6 +29,18 @@
 			"name": "Money Wheel",
 			"thumbnail": "/previews/Money_Wheel.png",
 			"data": "/templates/Money_Wheel.zip"
+		},
+		{
+			"id": "chores",
+			"name": "Chores",
+			"thumbnail": "/previews/Chores.png",
+			"data": "/templates/Chores.zip"
+		},
+		{
+			"id": "truth_or_dare",
+			"name": "Truth or Dare",
+			"thumbnail": "/previews/Truth_or_Dare.png",
+			"data": "/templates/Truth_or_Dare.zip"
 		}
 	]
 }
