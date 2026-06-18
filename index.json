@@ -1,6 +1,6 @@
 {
   "name": "Templates Gallery",
-  "version": 9,
+  "version": 19,
   "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
   "author": "sXakil",
   "license": "ISC",
@@ -47,6 +47,12 @@
       "name": "What To Eat",
       "thumbnail": "/previews/What_To_Eat.png",
       "data": "/templates/What_To_Eat.zip"
+    },
+    {
+      "id": "mindfulness",
+      "name": "mindfulness",
+      "thumbnail": "/previews/mindfulness.png",
+      "data": "/templates/mindfulness.zip"
     }
   ]
 }
