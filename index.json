@@ -1,6 +1,6 @@
 {
   "name": "Templates Gallery",
-  "version": 39,
+  "version": 79,
   "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
   "author": "sXakil",
   "license": "ISC",
@@ -59,6 +59,12 @@
       "name": "Clash Heroes",
       "thumbnail": "/previews/Clash_Heroes.png",
       "data": "/templates/Clash_Heroes.zip"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "thumbnail": "/previews/Beige.png",
+      "data": "/templates/Beige.zip"
     }
   ]
 }

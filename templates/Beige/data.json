@@ -1,0 +1,139 @@
+{
+	"wheel": {
+		"statusBarBg": null,
+		"showNumbering": false,
+		"lang": "en",
+		"hideCog": false,
+		"backgroundColor": "#CEC29B59",
+		"playLogo": "playLogo.png",
+		"playLogoScale": 1,
+		"playColor": "#FFFFFF00",
+		"pointerHidden": true,
+		"pointerColor": "#ff9b99",
+		"midRadius": 0.35,
+		"borderColor": "#211D1A",
+		"borderWidth": 3
+	},
+	"segments": [
+		{
+			"bgColor": "#CEC29B",
+			"numberingColor": "#ffffff",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "YES",
+				"color": "#211D1A",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#211D1A",
+			"numberingColor": "#006466",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "DOUBT\nIT",
+				"color": "#CEC29B",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#CEC29B",
+			"numberingColor": "#ffffff",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "LIKELY",
+				"color": "#211D1A",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#211D1A",
+			"numberingColor": "#006466",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "TRY\nAGAIN",
+				"color": "#CEC29B",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#CEC29B",
+			"numberingColor": "#ffffff",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "FOR\nSURE",
+				"color": "#211D1A",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#211D1A",
+			"numberingColor": "#006466",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "NEVER",
+				"color": "#CEC29B",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#CEC29B",
+			"numberingColor": "#ffffff",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "MAYBE",
+				"color": "#211D1A",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		},
+		{
+			"bgColor": "#211D1A",
+			"numberingColor": "#006466",
+			"image": "",
+			"imageScale": 1,
+			"imageOffset": { "x": 0, "y": 0, "rotation": 0 },
+			"text": {
+				"text": "NO",
+				"color": "#CEC29B",
+				"fontSize": 42,
+				"fontFamily": "JosefinSlab",
+				"offset": { "x": 0, "y": -30, "rotation": 0 }
+			},
+			"odds": 1
+		}
+	]
+}
