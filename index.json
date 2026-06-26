@@ -1,71 +1,71 @@
 {
-	"name": "Templates Gallery",
-	"version": 81,
-	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
-	"author": "sXakil",
-	"license": "ISC",
-	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-	"notice": "0|Templates are still experimental. New ones will be added gradually.",
-	"templates": [
-		{
-			"id": "fruits",
-			"name": "Fruits",
-			"thumbnail": "/previews/Fruits.png",
-			"data": "/templates/Fruits.zip"
-		},
-		{
-			"id": "vertical_text",
-			"name": "Vertical Text",
-			"thumbnail": "/previews/Vertical_Text.png",
-			"data": "/templates/Vertical_Text.zip"
-		},
-		{
-			"id": "beige",
-			"name": "Beige",
-			"thumbnail": "/previews/Beige.png",
-			"data": "/templates/Beige.zip"
-		},
-		{
-			"id": "money_wheel",
-			"name": "Money Wheel",
-			"thumbnail": "/previews/Money_Wheel.png",
-			"data": "/templates/Money_Wheel.zip"
-		},
-		{
-			"id": "chores",
-			"name": "Chores",
-			"thumbnail": "/previews/Chores.png",
-			"data": "/templates/Chores.zip"
-		},
-		{
-			"id": "truth_or_dare",
-			"name": "Truth or Dare",
-			"thumbnail": "/previews/Truth_or_Dare.png",
-			"data": "/templates/Truth_or_Dare.zip"
-		},
-		{
-			"id": "what_to_eat",
-			"name": "What To Eat",
-			"thumbnail": "/previews/What_To_Eat.png",
-			"data": "/templates/What_To_Eat.zip"
-		},
-		{
-			"id": "mindfulness",
-			"name": "Mindfulness",
-			"thumbnail": "/previews/Mindfulness.png",
-			"data": "/templates/Mindfulness.zip"
-		},
-		{
-			"id": "clash_heroes",
-			"name": "Clash Heroes",
-			"thumbnail": "/previews/Clash_Heroes.png",
-			"data": "/templates/Clash_Heroes.zip"
-		},
-		{
-			"id": "beige",
-			"name": "Beige",
-			"thumbnail": "/previews/Beige.png",
-			"data": "/templates/Beige.zip"
-		}
-	]
+  "name": "Templates Gallery",
+  "version": 163,
+  "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
+  "author": "sXakil",
+  "license": "ISC",
+  "baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
+  "notice": "0|Templates are still experimental. New ones will be added gradually.",
+  "templates": [
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "thumbnail": "/previews/Fruits.png",
+      "data": "/templates/Fruits.zip"
+    },
+    {
+      "id": "vertical_text",
+      "name": "Vertical Text",
+      "thumbnail": "/previews/Vertical_Text.png",
+      "data": "/templates/Vertical_Text.zip"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "thumbnail": "/previews/Beige.png",
+      "data": "/templates/Beige.zip"
+    },
+    {
+      "id": "money_wheel",
+      "name": "Money Wheel",
+      "thumbnail": "/previews/Money_Wheel.png",
+      "data": "/templates/Money_Wheel.zip"
+    },
+    {
+      "id": "chores",
+      "name": "Chores",
+      "thumbnail": "/previews/Chores.png",
+      "data": "/templates/Chores.zip"
+    },
+    {
+      "id": "truth_or_dare",
+      "name": "Truth or Dare",
+      "thumbnail": "/previews/Truth_or_Dare.png",
+      "data": "/templates/Truth_or_Dare.zip"
+    },
+    {
+      "id": "what_to_eat",
+      "name": "What To Eat",
+      "thumbnail": "/previews/What_To_Eat.png",
+      "data": "/templates/What_To_Eat.zip"
+    },
+    {
+      "id": "mindfulness",
+      "name": "Mindfulness",
+      "thumbnail": "/previews/Mindfulness.png",
+      "data": "/templates/Mindfulness.zip"
+    },
+    {
+      "id": "clash_heroes",
+      "name": "Clash Heroes",
+      "thumbnail": "/previews/Clash_Heroes.png",
+      "data": "/templates/Clash_Heroes.zip"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "thumbnail": "/previews/Beige.png",
+      "data": "/templates/Beige.zip"
+    }
+  ]
 }
