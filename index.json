@@ -1,47 +1,53 @@
 {
-	"name": "Templates Gallery",
-	"version": 90,
-	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
-	"author": "sXakil",
-	"license": "ISC",
-	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-	"notice": "0|Templates are still experimental. New ones will be added gradually.",
-	"templates": [
-		{
-			"id": "fruits",
-			"name": "Fruits",
-			"thumbnail": "/previews/Fruits.png",
-			"data": "/templates/Fruits.zip"
-		},
-		{
-			"id": "truth_kiss_dare",
-			"name": "Truth Kiss Dare",
-			"thumbnail": "/previews/Truth_Kiss_Dare.png",
-			"data": "/templates/Truth_Kiss_Dare.zip"
-		},
-		{
-			"id": "money_wheel",
-			"name": "Money Wheel",
-			"thumbnail": "/previews/Money_Wheel.png",
-			"data": "/templates/Money_Wheel.zip"
-		},
-		{
-			"id": "mindfulness",
-			"name": "Mindfulness",
-			"thumbnail": "/previews/Mindfulness.png",
-			"data": "/templates/Mindfulness.zip"
-		},
-		{
-			"id": "beige",
-			"name": "Beige",
-			"thumbnail": "/previews/Beige.png",
-			"data": "/templates/Beige.zip"
-		},
-		{
-			"id": "clash_of_clans",
-			"name": "Clash Of Clans",
-			"thumbnail": "/previews/Clash_Of_Clans.png",
-			"data": "/templates/Clash_Of_Clans.zip"
-		}
-	]
+  "name": "Templates Gallery",
+  "version": 91,
+  "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
+  "author": "sXakil",
+  "license": "ISC",
+  "baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
+  "notice": "0|Templates are still experimental. New ones will be added gradually.",
+  "templates": [
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "thumbnail": "/previews/Fruits.png",
+      "data": "/templates/Fruits.zip"
+    },
+    {
+      "id": "truth_kiss_dare",
+      "name": "Truth Kiss Dare",
+      "thumbnail": "/previews/Truth_Kiss_Dare.png",
+      "data": "/templates/Truth_Kiss_Dare.zip"
+    },
+    {
+      "id": "money_wheel",
+      "name": "Money Wheel",
+      "thumbnail": "/previews/Money_Wheel.png",
+      "data": "/templates/Money_Wheel.zip"
+    },
+    {
+      "id": "mindfulness",
+      "name": "Mindfulness",
+      "thumbnail": "/previews/Mindfulness.png",
+      "data": "/templates/Mindfulness.zip"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "thumbnail": "/previews/Beige.png",
+      "data": "/templates/Beige.zip"
+    },
+    {
+      "id": "clash_of_clans",
+      "name": "Clash Of Clans",
+      "thumbnail": "/previews/Clash_Of_Clans.png",
+      "data": "/templates/Clash_Of_Clans.zip"
+    },
+    {
+      "id": "money_prize",
+      "name": "Money Prize",
+      "thumbnail": "/previews/Money_Prize.png",
+      "data": "/templates/Money_Prize.zip"
+    }
+  ]
 }
