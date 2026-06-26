@@ -24,6 +24,10 @@ for folder in "$SOURCE_DIR"/*/; do
 
   zip_path="$DEST_DIR/$folder_name.zip"
 
+  if [ -f "$zip_path" ]; then
+    rm "$zip_path"
+  fi
+
   echo "  ▸ Zipping '$folder_name'..."
   # -r  recursive
   # -q  quiet
