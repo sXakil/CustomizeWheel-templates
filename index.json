@@ -14,10 +14,10 @@
 			"data": "/templates/Fruits.zip"
 		},
 		{
-			"id": "truth_or_dare",
-			"name": "Truth Or Dare",
-			"thumbnail": "/previews/Truth_Or_Dare.png",
-			"data": "/templates/Truth_Or_Dare.zip"
+			"id": "truth_kiss_dare",
+			"name": "Truth Kiss Dare",
+			"thumbnail": "/previews/Truth_Kiss_Dare.png",
+			"data": "/templates/Truth_Kiss_Dare.zip"
 		},
 		{
 			"id": "money_wheel",
