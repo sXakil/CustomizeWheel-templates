@@ -41,11 +41,13 @@ echo ""
 echo "✅ All templates zipped."
 echo ""
 
+VERSION=$(( $(cat "$SCRIPT_DIR/version.txt") + 1 ))
+printf '%s' "$VERSION" > "$SCRIPT_DIR/version.txt"
+
 echo "📈 Updating index.json and version.txt..."
-jq --arg v "$TEMPLATE_NAME" '
-  .version += (.version // 0) + 1
+jq --arg v "$VERSION" '
+  .version = ($v | tonumber)
 ' "$SCRIPT_DIR/index.json" > "$SCRIPT_DIR/index.tmp.json" && mv "$SCRIPT_DIR/index.tmp.json" "$SCRIPT_DIR/index.json"
-echo $(( $(cat $SCRIPT_DIR/version.txt) + 1 )) > "$SCRIPT_DIR/version.txt"
 
 # Git commit & push
 echo "🚀 Pushing to git..."
