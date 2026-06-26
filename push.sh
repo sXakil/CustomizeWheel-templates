@@ -37,6 +37,12 @@ echo ""
 echo "✅ All templates zipped."
 echo ""
 
+echo "📈 Updating index.json and version.txt..."
+jq --arg v "$TEMPLATE_NAME" '
+  .version += (.version // 0) + 1
+' "$SCRIPT_DIR/index.json" > "$SCRIPT_DIR/index.tmp.json" && mv "$SCRIPT_DIR/index.tmp.json" "$SCRIPT_DIR/index.json"
+echo $(( $(cat $SCRIPT_DIR/version.txt) + 1 )) > "$SCRIPT_DIR/version.txt"
+
 # Git commit & push
 echo "🚀 Pushing to git..."
 cd "$SCRIPT_DIR"
