@@ -1,6 +1,6 @@
 {
   "name": "Templates Gallery",
-  "version": 95,
+  "version": 96,
   "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
   "author": "sXakil",
   "license": "ISC",
@@ -18,6 +18,12 @@
       "name": "Truth Kiss Dare",
       "thumbnail": "/previews/Truth_Kiss_Dare.png",
       "data": "/templates/Truth_Kiss_Dare.zip"
+    },
+    {
+      "id": "golden_wheel",
+      "name": "Golden Wheel",
+      "thumbnail": "/previews/Golden_Wheel.png",
+      "data": "/templates/Golden_Wheel.zip"
     },
     {
       "id": "beige",
