@@ -1,53 +1,41 @@
 {
-  "name": "Templates Gallery",
-  "version": 96,
-  "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
-  "author": "sXakil",
-  "license": "ISC",
-  "baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-  "notice": "1|Templates are still experimental. New ones will be added gradually.",
-  "templates": [
-    {
-      "id": "fruits",
-      "name": "Fruits",
-      "thumbnail": "/previews/Fruits.png",
-      "data": "/templates/Fruits.zip"
-    },
-    {
-      "id": "truth_kiss_dare",
-      "name": "Truth Kiss Dare",
-      "thumbnail": "/previews/Truth_Kiss_Dare.png",
-      "data": "/templates/Truth_Kiss_Dare.zip"
-    },
-    {
-      "id": "golden_wheel",
-      "name": "Golden Wheel",
-      "thumbnail": "/previews/Golden_Wheel.png",
-      "data": "/templates/Golden_Wheel.zip"
-    },
-    {
-      "id": "beige",
-      "name": "Beige",
-      "thumbnail": "/previews/Beige.png",
-      "data": "/templates/Beige.zip"
-    },
-    {
-      "id": "clash_of_clans",
-      "name": "Clash Of Clans",
-      "thumbnail": "/previews/Clash_Of_Clans.png",
-      "data": "/templates/Clash_Of_Clans.zip"
-    },
-    {
-      "id": "money_prize",
-      "name": "Money Prize",
-      "thumbnail": "/previews/Money_Prize.png",
-      "data": "/templates/Money_Prize.zip"
-    },
-    {
-      "id": "mindfulness",
-      "name": "Mindfulness",
-      "thumbnail": "/previews/Mindfulness.png",
-      "data": "/templates/Mindfulness.zip"
-    }
-  ]
+	"name": "Templates Gallery",
+	"version": 1,
+	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
+	"author": "sXakil",
+	"license": "ISC",
+	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
+	"notice": "1|Templates are still experimental. New ones will be added gradually.",
+	"templates": [
+		{
+			"id": "truthe_or_dare",
+			"name": "Truthe or Dare",
+			"thumbnail": "/previews/Truthe_or_Dare.png",
+			"data": "/templates/Truthe or Dare.zip"
+		},
+		{
+			"id": "maybe_maybe",
+			"name": "Maybe Maybe",
+			"thumbnail": "/previews/Maybe_Maybe.png",
+			"data": "/templates/Maybe Maybe.zip"
+		},
+		{
+			"id": "mindfulness",
+			"name": "Mindfulness",
+			"thumbnail": "/previews/Mindfulness.png",
+			"data": "/templates/Mindfulness.zip"
+		},
+		{
+			"id": "golden_wheel",
+			"name": "Golden Wheel",
+			"thumbnail": "/previews/Golden_Wheel.png",
+			"data": "/templates/Golden Wheel.zip"
+		},
+		{
+			"id": "fruits",
+			"name": "Fruits",
+			"thumbnail": "/previews/Fruits.png",
+			"data": "/templates/Fruits.zip"
+		}
+	]
 }
