@@ -1,41 +1,47 @@
 {
-	"name": "Templates Gallery",
-	"version": 1,
-	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
-	"author": "sXakil",
-	"license": "ISC",
-	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-	"notice": "1|Templates are still experimental. New ones will be added gradually.",
-	"templates": [
-		{
-			"id": "truthe_or_dare",
-			"name": "Truthe or Dare",
-			"thumbnail": "/previews/Truthe_or_Dare.png",
-			"data": "/templates/Truthe or Dare.zip"
-		},
-		{
-			"id": "maybe_maybe",
-			"name": "Maybe Maybe",
-			"thumbnail": "/previews/Maybe_Maybe.png",
-			"data": "/templates/Maybe Maybe.zip"
-		},
-		{
-			"id": "mindfulness",
-			"name": "Mindfulness",
-			"thumbnail": "/previews/Mindfulness.png",
-			"data": "/templates/Mindfulness.zip"
-		},
-		{
-			"id": "golden_wheel",
-			"name": "Golden Wheel",
-			"thumbnail": "/previews/Golden_Wheel.png",
-			"data": "/templates/Golden Wheel.zip"
-		},
-		{
-			"id": "fruits",
-			"name": "Fruits",
-			"thumbnail": "/previews/Fruits.png",
-			"data": "/templates/Fruits.zip"
-		}
-	]
+  "name": "Templates Gallery",
+  "version": 1,
+  "description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
+  "author": "sXakil",
+  "license": "ISC",
+  "baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
+  "notice": "1|Templates are still experimental. New ones will be added gradually.",
+  "templates": [
+    {
+      "id": "maybe_maybe",
+      "name": "Maybe Maybe",
+      "thumbnail": "/previews/Maybe_Maybe.png",
+      "data": "/templates/Maybe Maybe.zip"
+    },
+    {
+      "id": "mindfulness",
+      "name": "Mindfulness",
+      "thumbnail": "/previews/Mindfulness.png",
+      "data": "/templates/Mindfulness.zip"
+    },
+    {
+      "id": "golden_wheel",
+      "name": "Golden Wheel",
+      "thumbnail": "/previews/Golden_Wheel.png",
+      "data": "/templates/Golden Wheel.zip"
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "thumbnail": "/previews/Fruits.png",
+      "data": "/templates/Fruits.zip"
+    },
+    {
+      "id": "fair_prizes",
+      "name": "Fair Prizes",
+      "thumbnail": "/previews/Fair_Prizes.png",
+      "data": "/templates/Fair Prizes.zip"
+    },
+    {
+      "id": "truth_or_dare",
+      "name": "Truth or Dare",
+      "thumbnail": "/previews/Truth_or_Dare.png",
+      "data": "/templates/Truth or Dare.zip"
+    }
+  ]
 }
