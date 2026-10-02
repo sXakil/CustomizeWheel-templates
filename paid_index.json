@@ -5,7 +5,6 @@
 			"name": "Test",
 			"thumbnail": "/previews/Test.png",
 			"data": "/templates/Test.zip",
-			"price": 0.99,
 			"productId": "test.001"
 		}
 	]
