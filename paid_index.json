@@ -4,7 +4,6 @@
 			"id": "test",
 			"name": "Test",
 			"thumbnail": "/previews/Test.png",
-			"data": "/templates/Test.zip",
 			"productId": "test.001"
 		}
 	]
