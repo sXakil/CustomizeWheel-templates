@@ -42,6 +42,12 @@
 			"name": "Truth or Dare",
 			"thumbnail": "/previews/Truth_or_Dare.png",
 			"data": "/templates/Truth or Dare.zip"
+		},
+		{
+			"id": "questions",
+			"name": "Questions",
+			"thumbnail": "/previews/Questions.png",
+			"data": "/templates/Questions.zip"
 		}
 	]
 }
