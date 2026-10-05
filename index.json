@@ -1,24 +1,12 @@
 {
 	"name": "Templates Gallery",
-	"version": 200,
+	"version": 201,
 	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
 	"author": "sXakil",
 	"license": "ISC",
 	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-	"notice": "200|Templates are still experimental. New ones will be added gradually.",
+	"notice": "201|Templates are still experimental. New ones will be added gradually.",
 	"templates": [
-		{
-			"id": "maybe_maybe",
-			"name": "Maybe Maybe",
-			"thumbnail": "/previews/Maybe_Maybe.png",
-			"data": "/templates/Maybe Maybe.zip"
-		},
-		{
-			"id": "mindfulness",
-			"name": "Mindfulness",
-			"thumbnail": "/previews/Mindfulness.png",
-			"data": "/templates/Mindfulness.zip"
-		},
 		{
 			"id": "golden_wheel",
 			"name": "Golden Wheel",
@@ -26,10 +14,16 @@
 			"data": "/templates/Golden Wheel.zip"
 		},
 		{
-			"id": "fruits",
-			"name": "Fruits",
-			"thumbnail": "/previews/Fruits.png",
-			"data": "/templates/Fruits.zip"
+			"id": "questions",
+			"name": "Questions",
+			"thumbnail": "/previews/Questions.png",
+			"data": "/templates/Questions.zip"
+		},
+		{
+			"id": "mindfulness",
+			"name": "Mindfulness",
+			"thumbnail": "/previews/Mindfulness.png",
+			"data": "/templates/Mindfulness.zip"
 		},
 		{
 			"id": "fair_prizes",
@@ -44,10 +38,16 @@
 			"data": "/templates/Truth or Dare.zip"
 		},
 		{
-			"id": "questions",
-			"name": "Questions",
-			"thumbnail": "/previews/Questions.png",
-			"data": "/templates/Questions.zip"
+			"id": "maybe_maybe",
+			"name": "Maybe Maybe",
+			"thumbnail": "/previews/Maybe_Maybe.png",
+			"data": "/templates/Maybe Maybe.zip"
+		},
+		{
+			"id": "fruits",
+			"name": "Fruits",
+			"thumbnail": "/previews/Fruits.png",
+			"data": "/templates/Fruits.zip"
 		}
 	]
 }
