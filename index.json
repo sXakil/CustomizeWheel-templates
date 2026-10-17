@@ -54,6 +54,12 @@
 			"name": "Fruits",
 			"thumbnail": "/previews/Fruits.png",
 			"data": "/templates/Fruits.zip"
+		},
+		{
+			"id": "indoor_activities",
+			"name": "Indoor Activities",
+			"thumbnail": "/previews/indoor_activities.png",
+			"data": "/templates/indoor_activities.zip"
 		}
 	]
 }
