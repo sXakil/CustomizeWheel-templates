@@ -1,6 +1,12 @@
 {
 	"templates": [
 		{
+			"id": "fate",
+			"name": "Fate",
+			"productId": "fate",
+			"thumbnail": "/previews/Fate.png"
+		},
+		{
 			"id": "fun",
 			"name": "Fun!",
 			"productId": "fun",
