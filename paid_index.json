@@ -3,7 +3,7 @@
 		{
 			"id": "fun",
 			"name": "Fun!",
-			"productId": "fun-template",
+			"productId": "fun",
 			"price": 0.49,
 			"thumbnail": "/previews/Fun.png"
 		}
