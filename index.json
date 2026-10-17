@@ -26,6 +26,12 @@
 			"data": "/templates/Mindfulness.zip"
 		},
 		{
+			"id": "trick_or_treats",
+			"name": "Trick or Treats",
+			"thumbnail": "/previews/Trick_or_Treats.png",
+			"data": "/templates/Trick or Treats.zip"
+		},
+		{
 			"id": "fair_prizes",
 			"name": "Fair Prizes",
 			"thumbnail": "/previews/Fair_Prizes.png",
