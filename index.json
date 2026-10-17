@@ -1,11 +1,11 @@
 {
 	"name": "Templates Gallery",
-	"version": 201,
+	"version": 202,
 	"description": "Prize wheel templates for Wheel O Fortune @ https://play.google.com/store/apps/details?id=com.customizewheel",
 	"author": "sXakil",
 	"license": "ISC",
 	"baseUrl": "https://raw.githubusercontent.com/sXakil/CustomizeWheel-templates/refs/heads/main",
-	"notice": "201|Templates are still experimental. New ones will be added gradually.",
+	"notice": "202|Templates are free to use for personal and commercial purposes. You can modify them as you wish. If you want to share your own templates, please contact me via email.",
 	"templates": [
 		{
 			"id": "golden_wheel",
