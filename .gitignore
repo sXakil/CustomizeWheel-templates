@@ -4,3 +4,4 @@ templates_source
 .dart_tool/package_config.json
 .dart_tool/package_graph.json
 .env
+paid_templates
