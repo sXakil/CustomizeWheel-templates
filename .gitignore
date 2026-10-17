@@ -1,9 +1,6 @@
 .DS_Store
 templates_source
 
-pubspec.yaml
-pubspec.lock 
 .dart_tool/package_config.json
 .dart_tool/package_graph.json
-process_paid.dart
 .env

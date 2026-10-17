@@ -1,0 +1,7 @@
+name: crypt
+
+dependencies:
+  cryptography: ^2.7.0
+
+environment:
+  sdk: "^3.13.0"
