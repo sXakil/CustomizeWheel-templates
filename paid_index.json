@@ -7,16 +7,16 @@
 			"thumbnail": "/previews/Fate.png"
 		},
 		{
-			"id": "fun",
-			"name": "Fun!",
-			"productId": "fun",
-			"thumbnail": "/previews/Fun.png"
-		},
-		{
 			"id": "offers",
 			"productId": "offers",
 			"name": "Offers",
 			"thumbnail": "/previews/offers.png"
+		},
+		{
+			"id": "fun",
+			"name": "Fun!",
+			"productId": "fun",
+			"thumbnail": "/previews/Fun.png"
 		}
 	]
 }
