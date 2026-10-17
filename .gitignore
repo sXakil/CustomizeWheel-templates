@@ -1,10 +1,9 @@
 .DS_Store
 templates_source
+
 pubspec.yaml
-pubspec.lock
-.gitignore
+pubspec.lock 
 .dart_tool/package_config.json
 .dart_tool/package_graph.json
-encrypt.dart
-data.json
-enc.json
+process_paid.dart
+.env
